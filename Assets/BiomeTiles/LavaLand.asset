@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a43f6a4b4b656034daf5f880167afdf8, type: 3}
+  m_Name: LavaLand
+  m_EditorClassIdentifier: 
+  Wall:
+  - {fileID: 11400000, guid: a22ad941e13d7d24fad780757018f635, type: 2}
+  Ores:
+  - {fileID: 11400000, guid: ec89381875ff37b4fa401c4c28583012, type: 2}
+  - {fileID: 11400000, guid: 2379c40a6ffdb8243968e9554e3db7cc, type: 2}
+  - {fileID: 11400000, guid: 5ff7015231ca9af428d259ed33956a04, type: 2}
+  - {fileID: 11400000, guid: 2903dfac1229e4040ab6895e97899e11, type: 2}
+  - {fileID: 11400000, guid: 7af60b359db627340862406c17ee576f, type: 2}
+  - {fileID: 11400000, guid: 9511aee99fb13b545afd3f08e6d3cdd2, type: 2}
+  Floors:
+  - {fileID: 11400000, guid: 2823351a560b28145b3d0ac6cc2507c3, type: 2}
+  - {fileID: 11400000, guid: 7b39be5b74de47c4aa99c3e647c0efdb, type: 2}

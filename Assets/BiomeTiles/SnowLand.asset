@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a43f6a4b4b656034daf5f880167afdf8, type: 3}
+  m_Name: SnowLand
+  m_EditorClassIdentifier: 
+  Wall:
+  - {fileID: 11400000, guid: 383b46254cdb4b2478338e95dc1ac2d3, type: 2}
+  Ores:
+  - {fileID: 11400000, guid: 20401447b57ef42439adbe4663dc7f50, type: 2}
+  - {fileID: 11400000, guid: bad4709db8196b84ab57bd9914ee73fb, type: 2}
+  - {fileID: 11400000, guid: c07849e73c897f84ba50edc9ba70aac3, type: 2}
+  - {fileID: 11400000, guid: 5147d6ae65112e94090d5fdecddfde37, type: 2}
+  - {fileID: 11400000, guid: 3598306626683eb408e72f1be4ee245f, type: 2}
+  - {fileID: 11400000, guid: c8ae2d19debcc204ab99e23f62296c72, type: 2}
+  Floors:
+  - {fileID: 11400000, guid: a9af2d0bba022d04caa5038abb07d9d1, type: 2}
+  - {fileID: 11400000, guid: dda045771e6dfd440bd26e57840ad46f, type: 2}
+  - {fileID: 11400000, guid: 1941b41c9232cb04f99705d785f07f3d, type: 2}
